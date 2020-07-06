@@ -1,5 +1,5 @@
 
-# Device Configuration For Asus Zenfone Max M1
+# Device Configuration For Asus Zenfone Lite L1
 
 ## Spec Sheet
 
