@@ -441,4 +441,4 @@ PRODUCT_SYSTEM_SERVER_COMPILER_FILTER := speed-profile
 PRODUCT_ALWAYS_PREOPT_EXTRACTED_APK := true
 
 # Inherit common proprietary files
-$(call inherit-product-if-exists, vendor/asus/X00P/X00P-vendor.mk)
+$(call inherit-product-if-exists, vendor/asus/X00R/X00R-vendor.mk)
